@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Senne-project
+- 👀 I’m interested in building websites
+- 🌱 I’m currently learning HTML & CSS
+- 😄 Pronouns: he/him
